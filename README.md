@@ -6,4 +6,4 @@ The challenge this week was to add to the given code and create a working passwo
 if you accept, decline, and then accept again the gen variable doesnt update correctly, also, if you decline the confirmChoice prompt and choose settings again, sometimes the application doesnt write a password at all.
 
 
-![screenshot of application]()
+![screenshot of application](https://github.com/fpreynolds/challenge3/blob/main/pwgenscr.png?raw=true)
