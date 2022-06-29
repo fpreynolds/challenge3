@@ -29,8 +29,8 @@ function writePassword() {
   // ask the user if they want to use special characters
   var specialChoice = window.confirm("Would you like to use special characters?");
 
-  if (numbersChoice) {
-    gen += "!#$%^&*()_-=+:;,.<>/?`~|";
+  if (specialChoice) {
+    gen += "#$%^&*(!)_-=+:;,.<>/?`~|";
     console.log(gen);
   }
   // ask the user how long their password should be
